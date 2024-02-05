@@ -10,7 +10,9 @@ export default function App() {
       <br />
       <footer>
         Open-source code by{" "}
-        <a href="https://github.com/spacemapache">Isabelle Ang</a>
+        <a href="https://github.com/spacemapache/weather-app-react">
+          Isabelle Ang
+        </a>
       </footer>
     </div>
   );
