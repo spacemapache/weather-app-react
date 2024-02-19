@@ -1,0 +1,53 @@
+.Weather {
+  border: 1px solid #dadde1;
+  border-radius: 5px;
+  margin: 30px auto;
+}
+
+h1 {
+  margin: 20px;
+  font-size: 25px;
+  text-transform: capitalize;
+}
+
+p {
+  margin-left: 20px;
+  margin-top: -10px;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+ul {
+  list-style-type: none;
+  font-size: 13px;
+  text-transform: capitalize;
+}
+
+li {
+  text-align: left;
+}
+
+form {
+  margin: 15px 10px 10px 10px;
+}
+
+img {
+  margin-top: -15px;
+}
+
+.btn {
+  margin-left: 10px;
+}
+
+.temperature {
+  font-weight: bold;
+  font-size: 30px;
+  position: relative;
+  top: -10px;
+}
+
+.unit {
+  font-size: 13px;
+  position: relative;
+  top: -25px;
+}
