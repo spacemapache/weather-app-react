@@ -37,6 +37,13 @@ img {
 
 .btn {
   margin-left: 10px;
+  background-color: #5d7283;
+  border: #5d7283;
+  color: white;
+}
+
+.btn:hover {
+  background-color: #29333c;
 }
 
 .temperature {

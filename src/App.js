@@ -1,13 +1,13 @@
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.css";
 
-import Search from "./Search";
 import Weather from "./Weather";
+import WeatherInfo from "./WeatherInfo";
 
 export default function App() {
   return (
     <div className="App">
-      <Weather />
+      <Weather defaultCity="Los Angeles" />
 
       <footer>
         Open-source code by{" "}
