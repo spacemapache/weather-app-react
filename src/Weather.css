@@ -9,12 +9,8 @@ h1 {
   font-size: 25px;
   text-transform: capitalize;
 }
-
-p {
-  margin-left: 20px;
-  margin-top: -10px;
-  font-size: 14px;
-  text-transform: capitalize;
+h4 {
+  margin: 20px;
 }
 
 ul {
