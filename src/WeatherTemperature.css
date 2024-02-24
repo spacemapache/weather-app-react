@@ -1,3 +1,7 @@
 a {
   text-decoration: none;
 }
+
+.WeatherTemperature {
+  font-size: 25px;
+}
