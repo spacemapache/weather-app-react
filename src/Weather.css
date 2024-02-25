@@ -1,7 +1,7 @@
 .Weather {
   border: 1px solid #dcd9d6;
   border-radius: 5px;
-  margin: 30px auto;
+  margin: 20px auto;
   background-color: #dcd9d6;
 }
 
@@ -15,6 +15,7 @@ ul {
   list-style-type: none;
   font-size: 13px;
   text-transform: capitalize;
+  padding: 0;
 }
 
 li {
@@ -26,7 +27,6 @@ form {
 }
 
 .btn {
-  margin-left: 10px;
   background-color: #5d7283;
   border: #5d7283;
   color: white;
@@ -38,7 +38,7 @@ form {
 
 .temperature {
   font-weight: bold;
-  font-size: 35px;
+  font-size: 38px;
   position: relative;
   top: -10px;
 }
@@ -46,9 +46,5 @@ form {
 .unit {
   font-size: 13px;
   position: relative;
-  top: -25px;
-}
-
-.code {
-  margin-left: 20px;
+  top: -30px;
 }
